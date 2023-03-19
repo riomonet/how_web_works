@@ -54,7 +54,7 @@ In your own terms, define the following terms:
 
 ## ****Part Two: Practice Tools****
 
-1. Using ***curl***, make a ***GET*** request to the  *icanhazdadjoke.com* API to find all jokes involving the word “picurl -H "Accept: text/plain"
+1. Using ***curl***, make a ***GET*** request to the  *icanhazdadjoke.com* API to find all jokes involving the word pirate.
  curl -H "Accept: text/plain" "https://icanhazdadjoke.com/search?term=pirate"
 
    
